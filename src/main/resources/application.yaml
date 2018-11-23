@@ -1,6 +1,6 @@
 server:
   port: 9999
-  context-path: /auctionsystem-springboot
+  context-path: /springboot-aop
   jsp-servlet:
     init-parameters:
       development: true
